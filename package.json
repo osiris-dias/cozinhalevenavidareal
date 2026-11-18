@@ -1,0 +1,16 @@
+{
+  "name": "cozinhalevenavidareal",
+  "version": "1.0.0",
+  "description": "Cozinha Leve na Vida Real - Receitas e um plano para a sua rotina",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
